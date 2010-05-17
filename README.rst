@@ -4,7 +4,7 @@ My Project Euler Solutions
 
 :Author: Tim Medina
 :Date Started: May 17, 2010
-:Status: Just started on Problem #1
+:Status: Finished 002
 
 Why?
 ----
